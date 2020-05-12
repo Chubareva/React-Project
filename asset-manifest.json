@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Project/static/css/main.e1e128fa.chunk.css",
+    "main.css": "/React-Project/static/css/main.ec9b6c6c.chunk.css",
     "main.js": "/React-Project/static/js/main.84732641.chunk.js",
     "main.js.map": "/React-Project/static/js/main.84732641.chunk.js.map",
     "runtime-main.js": "/React-Project/static/js/runtime-main.07865de5.js",
@@ -14,11 +14,11 @@
     "static/js/4.a249e0b5.chunk.js": "/React-Project/static/js/4.a249e0b5.chunk.js",
     "static/js/4.a249e0b5.chunk.js.map": "/React-Project/static/js/4.a249e0b5.chunk.js.map",
     "index.html": "/React-Project/index.html",
-    "precache-manifest.bc1d366ff075f88248c0de756f644852.js": "/React-Project/precache-manifest.bc1d366ff075f88248c0de756f644852.js",
+    "precache-manifest.6c3af34db9e5437e5287dab3bafa2156.js": "/React-Project/precache-manifest.6c3af34db9e5437e5287dab3bafa2156.js",
     "service-worker.js": "/React-Project/service-worker.js",
     "static/css/3.7adedade.chunk.css.map": "/React-Project/static/css/3.7adedade.chunk.css.map",
     "static/css/4.c7283dec.chunk.css.map": "/React-Project/static/css/4.c7283dec.chunk.css.map",
-    "static/css/main.e1e128fa.chunk.css.map": "/React-Project/static/css/main.e1e128fa.chunk.css.map",
+    "static/css/main.ec9b6c6c.chunk.css.map": "/React-Project/static/css/main.ec9b6c6c.chunk.css.map",
     "static/js/2.9a09a5e8.chunk.js.LICENSE.txt": "/React-Project/static/js/2.9a09a5e8.chunk.js.LICENSE.txt",
     "static/media/Spinner-1s-84px.svg": "/React-Project/static/media/Spinner-1s-84px.223f86f0.svg",
     "static/media/avatar.png": "/React-Project/static/media/avatar.06fd3ccf.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.07865de5.js",
     "static/js/2.9a09a5e8.chunk.js",
-    "static/css/main.e1e128fa.chunk.css",
+    "static/css/main.ec9b6c6c.chunk.css",
     "static/js/main.84732641.chunk.js"
   ]
 }
